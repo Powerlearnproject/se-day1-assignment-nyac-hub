@@ -1,0 +1,71 @@
+Part  1: introduction to software engineering
+ 
+ 1. software engineering is the application of engineering techniques so as to      design , develop ,test , deploy and maintain computer  programs that are efficient and meet the requirement of its users
+ 
+ 2. the three key milestones in evolution of software engineering are:
+        the development of the first programing language  {e.g cobol}
+        the introduction of the waterfall methodology
+        the emergence of agile methodologies
+ 
+ 3.  the phases of software development are
+        design the software
+        develop the software
+        testing
+        deployment
+        mantainance
+
+ 4. waterfall  and agile are two popular software development methodologies . Waterfall methodology follows a linear, sequential process, while the Agile methodology is more flexible and adaptive, emphasizing collaboration and iterative development 
+ 
+ 5. scenarios  were waterfall  would be aooropriate
+          Building a bridge or a physical infrastructure project.
+          Regulatory compliance projects with fixed requirements.
+ 
+ 6.agile appropriate
+        
+•	      Software development (especially web and mobile apps).
+o	       Product development where features evolve based on user feedback
+ 
+ 
+ roles and responsibilities 
+ 
+       software developer   designs  and tests software
+       quality assurance engineer ; ensure software meets requirements  and is  of high quality
+        project manager; everses  the project ,ensures  timley completion, and manages resources 
+
+importance of IDEs  and  VCS
+     IDEs (intergrated development environment) provide a comprehensive development  environment whith tools for coding , and  debugging 
+     V CS  (version control system ) help manage to code ,collaborative whith team mentors , and  mantain vrsion history
+
+Examples 
+IDECS eclipse visual studio
+VCS  , Git ,SVIN
+
+
+Common challanges  forced by software engineers
+   Managing  complexity
+   Meeting deadlines
+   Ensuring software quality
+
+Strategies  to overcome these  challanges
+   Break down  complex systems into smaller components
+   Use o agile methodologies to manage  deadlines and requirements
+   Implement  continuous testing and feedback
+
+Types of testing
+  Unit  testing  tests individual components
+  Intergration testing  tests  how componenta interact
+ System testing ; tests  the entire system
+  Acceptance testing  tests whether the system  meets requirements 
+
+Part 2 : prompt engineering
+  Prompt engineering is the manipulation of ai prompts so as to get the most effiscient results  from an ai model
+
+Vague prompt 
+   Create an image on  students studying computer  science
+
+Improved prompt
+Take an assumption of you being a software engineer professor ,now create an image depicting African  children learning software engineering,also add landmarks and snippets to the image
+
+
+
+
